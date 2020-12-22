@@ -1,8 +1,7 @@
 # Alan_Portfolio
 Professional Github Project Portfolio
 
-# Project 1
-## quantum-machine-learning
+# Project 1 - [Quantum Machine Learning](https://github.com/alanspace/quantum-machine-learning)
 
 I have been working on quantum machine learning by implementing gradient descent 
 for optimized parametrized circuits using pennylane and qiskit, 
