@@ -28,7 +28,7 @@ A circuit that applies the operations to thte qubits: circuit
 A simulator that runs the circuit fora specified numbdr of repetitions: reps, simulator
 We introdue coding Gradient Descent on Task 2 for optimized parametrized circuit using pennyLane and qiskit.
 
-# Project 2 - [Quantum Orchesttra](https://github.com/CynthiaRios/quantum_orchestra)
+# Project 2 - [Quantum Orchestra](https://github.com/CynthiaRios/quantum_orchestra)
 
 ## Team Member
 ![](/images/team.png)
