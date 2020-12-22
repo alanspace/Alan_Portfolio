@@ -13,9 +13,7 @@ Implement a circuit that returns |01> and |10> with equal probability. Requireme
 
 ### My work
 The task tells us that we need to create a two-qubit Bell State of 1/2(|01> + |10>) and not 1/2(|01> - |10>).
-
 Analytically, I try to caculate how to get to the state. I make use of the Qiksit to verfiy if my calculation is correct.
-
 Numerically, we need the following:
 
 two qubits: q0, q1
